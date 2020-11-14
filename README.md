@@ -7,6 +7,6 @@ The first project at School 21.
 3. https://github.com/davhojt/libft - репозиторий парня, кто сдал либу на максимум
 4. https://github.com/daniiomir/faq_for_school_21 - FAQ для новичков
 5. https://github.com/alelievr/libft-unit-test - чекер для проекта libft
-6. https://github.com/jtoty/Libftest - еще один чекер для проекта (лучше использовать оба)
+6. https://github.com/jtoty/Libftest - еще один чекер для проекта (лучше использовать оба)  
 Важный комментарий про чекеры: они некорректно проверяют функции:
 -ft_putchar_fd (часть 2)
