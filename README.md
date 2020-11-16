@@ -13,7 +13,7 @@ The first project at School 21.
 -ft_putchar_fd (часть 2)
 
 ## Перечень функций
-• [memset](1. ft_memset.c)
+• [memset](1. ft_memset.c)  
 • bzero
 • memcpy
 • memccpy
