@@ -11,16 +11,21 @@
 /* ************************************************************************** */
 
 #include "libft.h"
+/*
+memset -- fill a byte string with a byte value
+The memset() function writes len bytes of value c (converted to an unsigned char) to the string b.
+The memset() function returns its first argument.
+*/
 
 void				*ft_memset(void *b, int c, size_t len)
 {
 	unsigned char	a;
 	size_t			i;
 
-	a = (unsigned char)c;
+	a = (unsigned char)c;	//переводим инт с в чары (ascii), чтобы потом заполнить массив а 
 	i = len;
 	while (len--)
 		*(unsigned char *)b++ = a;
-	b = b - i;
+	b = b - i;		//возвращаем указатель на начало
 	return (b);
 }
