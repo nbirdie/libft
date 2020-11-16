@@ -13,8 +13,8 @@ The first project at School 21.
 -ft_putchar_fd (часть 2)
 
 ## Part 1  
-Part 1
------------- | -------------
+Part 1.1     | Part 1.2      | Part 1.3      
+------------ | ------------- | ------------- 
 [memset](https://github.com/nbirdie/libft/blob/main/ft_memset.c) | [strrchr]()
 [bzero]() |
 [memcpy]() |
