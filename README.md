@@ -12,19 +12,20 @@ The first project at School 21.
 Важный комментарий про чекеры: они некорректно проверяют функции:
 -ft_putchar_fd (часть 2)
 
-## Part 1
-• [memset](https://github.com/nbirdie/libft/blob/main/ft_memset.c)  
-• [bzero]()
-• [memcpy]()
-• [memccpy]()
-• [memmove]()
-• [memchr]()
-• [memcmp]()
-• [strlen]()
-• [strlcpy]()
-• [strlcat]()
-• [strchr]()
-• [strrchr]()
+## Part 1  
+[memset](https://github.com/nbirdie/libft/blob/main/ft_memset.c) | [strrchr]()
+[bzero]() |
+[memcpy]() |
+[memccpy]() |
+[memmove]() |
+[memchr]() |
+[memcmp]() |
+[strlen]() |
+[strlcpy]() |
+[strlcat]() |
+[strchr]() |
+
+• 
 • [strnstr]()
 • [strncmp]()
 • [atoi]()
