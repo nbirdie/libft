@@ -11,6 +11,10 @@
 /* ************************************************************************** */
 
 #include "libft.h"
+/*
+strchr, strrchr -- locate character in string
+The strrchr() function is identical to strchr(), except it locates the last occurrence of c.
+*/
 
 char		*ft_strrchr(const char *s, int c)
 {
