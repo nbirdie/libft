@@ -11,3 +11,16 @@ The first project at School 21.
 
 Важный комментарий про чекеры: они некорректно проверяют функции:
 -ft_putchar_fd (часть 2)
+
+## Перечень функций
+• [memset](1. ft_memset.c)
+• bzero
+• memcpy
+• memccpy
+• memmove
+• memchr
+• memcmp
+• strlen
+• strlcpy
+• strlcat
+• strchr
