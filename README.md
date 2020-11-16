@@ -28,16 +28,16 @@ Part 1.1     | Part 1.2      | Part 1.3
 [strchr](https://github.com/nbirdie/libft/blob/main/ft_strchr.c) | [tolower](https://github.com/nbirdie/libft/blob/main/tolower.c)
 
 ## Part 2
-ft_substr
-ft_strjoin
-ft_strtrim
-ft_split
-ft_itoa
-ft_strmapi
-ft_putchar_fd
-ft_putstr_fd
-ft_putendl_fd
-ft_putnbr_fd
+[ft_substr](https://github.com/nbirdie/libft/blob/main/ft_substr.c)
+[ft_strjoin](https://github.com/nbirdie/libft/blob/main/ft_strjoin.c)
+[ft_strtrim](https://github.com/nbirdie/libft/blob/main/ft_strtrim.c)
+[ft_split](https://github.com/nbirdie/libft/blob/main/ft_split.c)
+[ft_itoa](https://github.com/nbirdie/libft/blob/main/ft_itoa.c)
+[ft_strmapi](https://github.com/nbirdie/libft/blob/main/ft_strmapi.c)
+[ft_putchar_fd](https://github.com/nbirdie/libft/blob/main/ft_putchar_fd.c)
+[ft_putstr_fd](https://github.com/nbirdie/libft/blob/main/ft_putstr_fd.c)
+[ft_putendl_fd](https://github.com/nbirdie/libft/blob/main/ft_putendl_fd.c)
+[ft_putnbr_fd](https://github.com/nbirdie/libft/blob/main/ft_putnbr_fd.c)
 
 ## Part 3
 ft_lstnew
