@@ -28,7 +28,7 @@ Part 1.1     | Part 1.2      | Part 1.3
 [strchr](https://github.com/nbirdie/libft/blob/main/ft_strchr.c) | [tolower](https://github.com/nbirdie/libft/blob/main/tolower.c)
 
 ## Part 2
-[ft_substr](https://github.com/nbirdie/libft/blob/main/ft_substr.c)  
+[ft_substr](https://github.com/nbirdie/libft/blob/main/ft_substr.c)
 [ft_strjoin](https://github.com/nbirdie/libft/blob/main/ft_strjoin.c)  
 [ft_strtrim](https://github.com/nbirdie/libft/blob/main/ft_strtrim.c)  
 [ft_split](https://github.com/nbirdie/libft/blob/main/ft_split.c)  
