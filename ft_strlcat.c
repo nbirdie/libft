@@ -9,6 +9,15 @@
 /*   Updated: 2020/11/03 21:42:48 by nbirdie          ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
+/*
+strlcat -- size-bounded string copying and concatenation
+strlcat() appends string src to the end of dst.  It will append at most dstsize - strlen(dst)
+     - 1 characters.  It will then NUL-terminate, unless dstsize is 0 or the original dst string
+     was longer than dstsize (in practice this should not happen as it means that either dstsize
+     is incorrect or that dst is not a proper string).
+
+     If the src and dst strings overlap, the behavior is undefined.
+*/
 
 #include "libft.h"
 
