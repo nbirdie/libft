@@ -11,6 +11,9 @@
 /* ************************************************************************** */
 
 #include "libft.h"
+/*
+toupper, toupper_l -- lower case to upper case letter conversion
+*/
 
 int		ft_toupper(int c)
 {
