@@ -11,6 +11,14 @@
 /* ************************************************************************** */
 
 #include "libft.h"
+/*
+#1. The string to be split.
+#2. The delimiter character.
+Allocates (with malloc(3)) and returns an array
+of strings obtained by splitting ’s’ using the
+character ’c’ as a delimiter. The array must be
+ended by a NULL pointer.
+*/
 
 static char			**ft_malloc_free(char **res)
 {
