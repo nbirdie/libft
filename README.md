@@ -1,8 +1,8 @@
 # libft
-The first project at School 21.
-All the functions are correct.
+Первый проект Школы 21.  
+Все функции прошли проверку (ft_substr исправлена).  
 
-## Helpful links
+## Полезные ссылки
 0. [FAQ для новичков](https://github.com/daniiomir/faq_for_school_21)
 1. [Репозитарий крутого парня из Киева, где можно подсмотреть классные решения](https://github.com/VBrazhnik/Libft)  
 2. [Репозиторий парня, кто сдал либу на максимум с защитой всех функций](https://github.com/davhojt/libft)  
