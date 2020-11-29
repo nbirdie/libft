@@ -3,15 +3,14 @@ The first project at School 21.
 All the functions are correct.
 
 ## Helpful links
-1. https://velog.io/@hidaehyunlee/Libft-Bonus
-2. https://github.com/VBrazhnik/Libft - репозитарий крутого парня из Киева, где можно подсмотреть классные решения
-3. https://github.com/davhojt/libft - репозиторий парня, кто сдал либу на максимум
-4. https://github.com/daniiomir/faq_for_school_21 - FAQ для новичков
-5. https://github.com/alelievr/libft-unit-test - чекер для проекта libft
-6. https://github.com/jtoty/Libftest - еще один чекер для проекта (лучше использовать оба)  
+0. [FAQ для новичков](https://github.com/daniiomir/faq_for_school_21)
+1. [Репозитарий крутого парня из Киева, где можно подсмотреть классные решения](https://github.com/VBrazhnik/Libft)  
+2. [Репозиторий парня, кто сдал либу на максимум с защитой всех функций](https://github.com/davhojt/libft)  
+3. [Решение бонусной части - eng](https://velog.io/@hidaehyunlee/Libft-Bonus)
+5. [Чекер libft-unit-test](https://github.com/alelievr/libft-unit-test)
+6. [Чекер Libftest](https://github.com/jtoty/Libftest)
 
-Важный комментарий про чекеры: они некорректно проверяют функции:
--ft_putchar_fd (часть 2)
+Важный комментарий про чекеры: одних чекеров недостаточно для успешной сдачи проекта! Необходимо самостоятельно простетить функции ft_split, ft_substr (на утечки), ft_strnstr. Limits.h для INT_MAX и INT_MIN можно.  
 
 ## Part 1  
 Part 1.1     | Part 1.2      | Part 1.3      
