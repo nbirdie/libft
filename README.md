@@ -1,5 +1,6 @@
 # libft
 The first project at School 21.
+All the functions are correct.
 
 ## Helpful links
 1. https://velog.io/@hidaehyunlee/Libft-Bonus
