@@ -15,7 +15,7 @@
 ## Part 1  
 Part 1.1     | Part 1.2      | Part 1.3      
 ------------ | ------------- | ------------- 
-[memset](https://github.com/nbirdie/libft/blob/main/ft_memset.c) | [strrchr](https://github.com/nbirdie/libft/blob/main/ft_strrchr.c) | [calloc](https://github.com/nbirdie/libft/blob/main/ft_calloc.c)
+[memset - заполняет память опред. символом](https://github.com/nbirdie/libft/blob/main/ft_memset.c) | [strrchr](https://github.com/nbirdie/libft/blob/main/ft_strrchr.c) | [calloc](https://github.com/nbirdie/libft/blob/main/ft_calloc.c)
 [bzero](https://github.com/nbirdie/libft/blob/main/ft_bzero.c) | [strnstr](https://github.com/nbirdie/libft/blob/main/ft_strnstr.c) | [strdup](https://github.com/nbirdie/libft/blob/main/ft_strdup.c)
 [memcpy](https://github.com/nbirdie/libft/blob/main/ft_memcpy.c) | [strncmp](https://github.com/nbirdie/libft/blob/main/ft_strncmp.c)
 [memccpy](https://github.com/nbirdie/libft/blob/main/ft_memccpy.c) | [atoi](https://github.com/nbirdie/libft/blob/main/ft_atoi.c)
