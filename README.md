@@ -3,10 +3,10 @@
 Все функции прошли проверку (ft_substr исправлена).  
 
 ## Полезные ссылки
-0. [FAQ для новичков](https://github.com/daniiomir/faq_for_school_21)
-1. [Репозитарий крутого парня из Киева, где можно подсмотреть классные решения](https://github.com/VBrazhnik/Libft)  
-2. [Репозиторий парня, кто сдал либу на максимум с защитой всех функций](https://github.com/davhojt/libft)  
-3. [Решение бонусной части - eng](https://velog.io/@hidaehyunlee/Libft-Bonus)
+1. [FAQ для новичков](https://github.com/daniiomir/faq_for_school_21)
+2. [Репозитарий крутого парня из Киева, где можно подсмотреть классные решения](https://github.com/VBrazhnik/Libft)  
+3. [Репозиторий парня, кто сдал либу на максимум с защитой всех функций](https://github.com/davhojt/libft)  
+4. [Решение бонусной части - eng](https://velog.io/@hidaehyunlee/Libft-Bonus)
 5. [Чекер libft-unit-test](https://github.com/alelievr/libft-unit-test)
 6. [Чекер Libftest](https://github.com/jtoty/Libftest)
 
